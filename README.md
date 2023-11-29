@@ -21,7 +21,7 @@ Frontend:
 Backend:
  - Nest.js
  - Mongoose 
- - Passport GitHub / Passport JWT / Passport JWT
+ - Passport GitHub / Passport JWT / Passport local
  - FS module
 
 ## 
